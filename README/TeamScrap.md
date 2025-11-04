@@ -2,22 +2,21 @@
 
 ## Team Introduction:
 
-Hello! We're a versatile group and our goal for this project is to develop the two-player mode for the Space Invaders game this semester.
+Hello! We're a versatile group and our goal for this project is to develop Snake Game.
 
 
 TEAM ROLES:
 
-Leader: Chloe Vegiga
+Leader: Chloe Vegiga (screen/UI)
 
-Sub-leader: Ashley Lee
+Sub-leader: Ashley Lee (sound and animation)
 
 Developer
-1. Melih Emir
-2. Ahmad Najmi
-3. Emmitt Aguirre
-4. Damisola Talabi
-
-Tester: Muhammad Haziq 
+1. Melih Emir (input & event)
+2. Ahmad Najmi (core and github manager)
+3. Emmitt Aguirre (snake development)
+4. Damisola Talabi (score & file manager)
+5. Muhammad Haziq (environment & collision)
 
 
 ## Team Requirements: 
@@ -33,7 +32,6 @@ The overall project requirements that we're responsible for include redesigning 
 - Decide between two health bars/one big health bar - co-op vs versus?
 
 ## Dependencies on Other Teams:
-- Requirement 9 - relying on designs and variety of players and ships to differ each player and create the two ships to co-exist 
-- Requirement 6 - level up design is required to include a sped-up level for co-op/versus
-- Requirement 7 - differ between singleplayer and multiplayer modes, again then co-op/versus
-
+- Engine -> Najmi, Melih, Ashley
+- Entity -> Emmitt, Haziq
+- Screen -> Chloe, Dami
